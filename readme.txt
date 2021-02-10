@@ -10,3 +10,7 @@ doing commit changes now
 Updating master
 
 updating repository
+
+pull "updating repository"
+now pushing it to github repository
+
