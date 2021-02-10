@@ -4,5 +4,6 @@ doing a tutorial lol
 
 doing commit changes now
 
-Hello
-hello2
+#hi
+#hi
+
